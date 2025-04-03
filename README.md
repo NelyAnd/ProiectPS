@@ -1,3 +1,4 @@
 # ProiectPS
 
-bgrgmkfmekfnAFNELGSKGLG
+Versiune Python 3.12
+
